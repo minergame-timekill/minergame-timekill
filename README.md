@@ -1,5 +1,5 @@
 <div align="center">
 
-<a src="https://minergame-timekill.github.io/">minergame-timekill.github.io</a>
+# [minergame-timekill.github.io](https://minergame-timekill.github.io/)
 
 </div>
